@@ -6,25 +6,6 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
-## Before You Begin
-
-1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Part-1** and **Leaflet-Part-2**.
-
-4. This homework uses both **HTML** and **JavaScript**, so be sure to add all the necessary files. These will be the main files to run for analysis.
-
-5. Push the above changes to GitHub.
-
-## Instructions
-
-The instructions for this activity are broken into two parts: 
-
-* Part 1: Create the Earthquake Visualization 
-
-* Part 2: Gather and Plot More Data (Optional)
 
 ### Part 1: Create the Earthquake Visualization
 
@@ -34,7 +15,7 @@ To visualize an earthquake dataset, following steps were completed:
 
 1. Dataset: 
 
-   * All Earthquakes for the past 30 days retrevied from [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page. URL of this JSON used to pull in the data for the visualization.
+   * All Earthquakes for the past 7 days retrevied from [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page. URL of this JSON used to pull in the data for the visualization.
 
 2. Import and visualization:  
 
