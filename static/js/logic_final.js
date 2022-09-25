@@ -108,7 +108,6 @@ function createMap(response)
             weight: 0.3,
             opacity: 0.5,
             fillOpacity: 1, 
-            labels: '<strong> THE TITLE </strong>'
         }).bindPopup(`<br><strong>Magnitude: </strong>${feature.properties.mag}<br>
             <strong>Location: </strong> ${feature.properties.place}<br>
             <strong>Depth of the event in kilometers: </strong>${feature.geometry.coordinates[2]}`);   
