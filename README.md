@@ -27,6 +27,7 @@ To visualize an earthquake dataset, following steps were completed:
        * Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth appear darker in color.
 
    * Included popups that provide additional information about the earthquake when its associated marker is clicked.
+![popup](Images/popup.png)  
 
    * Created a legend that provides context for the map data.
 
