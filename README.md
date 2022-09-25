@@ -9,7 +9,10 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
 
-### Part 1: Create the Earthquake Visualization
+### Part 1: the Earthquake Visualization
+
+
+#### Final Result : 
 
 ![myMap](Images/result.png)
 
@@ -27,6 +30,7 @@ To visualize an earthquake dataset, following steps were completed:
        * Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth appear darker in color.
 
    * Included popups that provide additional information about the earthquake when its associated marker is clicked.
+   
 ![popup](Images/popup.png)  
 
    * Created a legend that provides context for the map data.
