@@ -2,7 +2,7 @@
 
 ## Background
 
-![usgs](Images/logo.png)
+![usgs](Images/1-Logo.png)
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, we will be helping them out with an exciting new project!
 
@@ -31,10 +31,11 @@ To visualize an earthquake dataset, following steps were completed:
 
    * Included popups that provide additional information about the earthquake when its associated marker is clicked.
    
-![popup](Images/popup.png)  
-
    * Created a legend that provides context for the map data.
-
+   
+ ![popup](Images/popup.png) 
+ 
+ 
 3. The Visualization can be seen [here](https://vedranagatech.github.io/leaflet-challenge/)
 
 ___
